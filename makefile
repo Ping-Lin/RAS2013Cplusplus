@@ -3,4 +3,4 @@
     Test.o: Test.cpp
 	g++ -c Test.cpp
     clean: 
-	rm *.o Test
+	rm *.o test
