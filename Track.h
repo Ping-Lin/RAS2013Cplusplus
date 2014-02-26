@@ -15,11 +15,13 @@ class Track {
 		bool ifEmpty;   //判斷軌道是否為空
 		vector<Block> train;   //track上面的火車
 		double humpTime;   //被hump拉的時間
-		vector<BlockToTrack> btt;   //for print out
+		double pullBackTime;   //被pullBack拉的時間
+		vector<BlockToTrack> btt;   //for output
 	
 		Track(){
 			ifEmpty = true;
 			humpTime = 0.0f;
+			pullBackTime = 0.0f;
 		}
 };
 
