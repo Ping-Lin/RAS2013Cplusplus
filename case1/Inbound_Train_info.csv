@@ -1,0 +1,7 @@
+Inbound Train No	Day No	Arriving time at receiving area	Receiving track No	Number of blocks    	Number of cars	Destination of blocks (number of cars)	Starting time of humping job	Ending time of humping job
+i1	3	Day3,9:0	R1	3	37	B1(30);B2(5);B5(2);	Day3,9:30	Day3,9:44
+i2	3	Day3,9:10	R2	3	40	B3(30);B4(5);B5(5);	Day3,9:52	Day3,10:8
+i3	3	Day3,9:30	R1	3	38	B1(17);B2(18);B4(3);	Day3,10:16	Day3,10:32
+i4	3	Day3,9:42	R3	3	37	B3(24);B4(11);B6(2);	Day3,10:40	Day3,10:54
+i6	3	Day3,10:4	R4	3	36	B3(10);B5(19);B6(7);	Day3,11:2	Day3,11:17
+i5	3	Day3,9:55	R2	2	35	B1(20);B2(15);	Day3,11:25	Day3,11:39
