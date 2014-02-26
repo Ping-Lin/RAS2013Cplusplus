@@ -21,7 +21,7 @@ class BlockValues {
 			/**
 			 * Big Case
 			 */	
-	/*		blockLength = 33;
+			blockLength = 33;
 			blockValues = new string[blockLength];
 			blockValues[0] = "AA";blockValues[1] = "AB";blockValues[2] = "AC";blockValues[3] = "AD";
 			blockValues[4] = "AE";blockValues[5] = "AF";blockValues[6] = "AG";blockValues[7] = "AH";
@@ -41,7 +41,7 @@ class BlockValues {
 			/**
 			 * Data Sets 4 and 5 Combination:
 			 */
-	/*		blockCombinationLength = 13;
+			blockCombinationLength = 13;
 			blockCombination = new string[blockCombinationLength];
 			blockCombination[0] = "AA,AJ,AN,AP,BC,BE";blockCombination[1] = "AA,AJ,AN,AP,BG";blockCombination[2] = "AB,AD,AF,AS,AU,BA,BB";
 	  		blockCombination[3] = "AB,AF,AW";blockCombination[4] = "AC,AG,AX";blockCombination[5] = "AE,AH,AK";blockCombination[6] = "AF,AW,AY";
@@ -52,14 +52,14 @@ class BlockValues {
 			/**
 			 * Small Case, Illustrative Example
 			 */
-			blockLength = 6;
+	/*		blockLength = 6;
 			blockValues = new string[blockLength];
-			blockValues[0]="b1";
-			blockValues[1]="b2";
-			blockValues[2]="b3";
-			blockValues[3]="b4";
-			blockValues[4]="b5";
-			blockValues[5]="b6";
+			blockValues[0]="B1";
+			blockValues[1]="B2";
+			blockValues[2]="B3";
+			blockValues[3]="B4";
+			blockValues[4]="B5";
+			blockValues[5]="B6";
 			blockCombinationLength = 1;
 			blockCombination = new string[blockCombinationLength];
 			blockCombination[0] = "B5,B6";   //*/
