@@ -10,7 +10,7 @@ namespace Constants{
 	/**
 	 * case 1
 	 */
-	const int RECEIVING_TRACKS_NUMBER = 4;
+/*	const int RECEIVING_TRACKS_NUMBER = 4;
 	const int RECEIVING_TRACKS_CAPACITY = 40;
 	const int CLASSIFICATION_TRACKS_NUMBER = 6;
 	const int CLASSIFICATION_TRACKS_CAPACITY = 50;
@@ -28,7 +28,7 @@ namespace Constants{
 	/*
 	 * case 5
 	 */
-/*    const int RECEIVING_TRACKS_NUMBER = 10;
+    const int RECEIVING_TRACKS_NUMBER = 10;
     const int RECEIVING_TRACKS_CAPACITY = 185;
     const int CLASSIFICATION_TRACKS_NUMBER = 42;
     const int CLASSIFICATION_TRACKS_CAPACITY = 60;   
