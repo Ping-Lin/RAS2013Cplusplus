@@ -1,7 +1,0 @@
-outbound Train No	Day No	PullBack engine No	Starting time of pullback job	ending time of pullback job	departure time at departure area	Departure track No	Number of blocks	number of railcars	destination of blocks(associated number of cars)
-o1	3	1	Day3,9:44	Day3,9:54	Day3,10:24	1	1	30	B1(30);
-o2	3	1	Day3,10:8	Day3,10:18	Day3,10:48	2	1	30	B3(30);
-o3	3	1	Day3,11:17	Day3,11:27	Day3,11:57	1	1	34	B3(34);
-o4	3	1	Day3,11:39	Day3,11:49	Day3,12:19	2	1	38	B2(38);
-o5	3	1	Day3,11:49	Day3,11:59	Day3,12:29	3	1	37	B1(37);
-o6	3	1	Day3,11:59	Day3,12:24	Day3,12:54	1	2	35	B5(26);B6(9);
